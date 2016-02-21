@@ -34,13 +34,13 @@
     "grunt": "~0.4.5"
   },
   "peerDependencies": {
-    "grunt": "~0.4.5"
+    "grunt": ">=0.4.0"
   },
-	"dependencies": {
-		"shelljs": "~0.2.6",
-		"semver": "~2.1.0"
-	},
-	"keywords": [
+  "dependencies": {
+    "shelljs": "~0.2.6",
+    "semver": "~2.1.0"
+  },
+  "keywords": [
     "gruntplugin"
   ]
 }
